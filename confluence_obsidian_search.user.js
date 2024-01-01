@@ -4,8 +4,8 @@
 // @namespace    https://github.com/scambier/userscripts
 // @description  Injects Obsidian notes in Confluence search results
 // @author       Nezir Dzanko
-// @downloadURL
-// @updateURL
+// @downloadURL  https://github.com/nezirdz/userscripts/confluence_obsidian_search.user.js
+// @updateURL    https://github.com/nezirdz/userscripts/confluence_obsidian_search.user.js
 // @match        https://confluence.boc-group.com/*
 // @match        https://www.confluence.boc-group.com/*
 // @icon         https://obsidian.md/favicon.ico
