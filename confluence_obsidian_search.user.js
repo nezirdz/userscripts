@@ -20,6 +20,8 @@
 // @grant        GM.setValue
 // ==/UserScript==
 
+/* Checking for updates in tampermonkey */
+
 /* globals GM_config, jQuery, $, waitForKeyElements */
 const sidebarSelector = "#search-result-container";
 // Names and Properties
