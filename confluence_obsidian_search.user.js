@@ -4,7 +4,7 @@
 // @namespace    https://github.com/scambier/userscripts
 // @description  Injects Obsidian notes in Confluence search results
 // @author       Nezir Dzanko
-// @version      0.1
+// @version      0.1.1
 // @downloadURL  https://github.com/nezirdz/userscripts/blob/main/confluence_obsidian_search.user.js
 // @updateURL    https://github.com/nezirdz/userscripts/blob/main/confluence_obsidian_search.user.js
 // @match        https://confluence.boc-group.com/*
@@ -20,7 +20,6 @@
 // @grant        GM.setValue
 // ==/UserScript==
 
-/* Checking for updates in tampermonkey */
 
 /* globals GM_config, jQuery, $, waitForKeyElements */
 const sidebarSelector = "#search-result-container";
