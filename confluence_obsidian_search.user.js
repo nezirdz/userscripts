@@ -210,7 +210,7 @@ const injectResultsContainer = () => {
   const resultsDiv = $(
     `<div id="${Strings.resultDivId}" style="margin-bottom: 2em;"></div>`
   );
-  $(sidebarSelector).prepend(resultsDiv);
+  $(sidebarSelector).children().last().prepend(resultsDiv);
 };
 
 const injectLoadingLabel = () => {
