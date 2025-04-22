@@ -4,7 +4,7 @@
 // @namespace    https://github.com/scambier/userscripts
 // @description  Injects Obsidian notes in Confluence search results
 // @author       Nezir Dzanko
-// @version      0.1.2
+// @version      0.1.3
 // @downloadURL  https://github.com/nezirdz/userscripts/raw/main/confluence_obsidian_search.user.js
 // @updateURL    https://github.com/nezirdz/userscripts/raw/main/confluence_obsidian_search.user.js
 // @match        https://confluence.boc-group.com/*
